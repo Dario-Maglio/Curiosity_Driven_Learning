@@ -8,7 +8,7 @@ The **Curiosity Driven Learning** approach is based on the exploitation of natur
 .. image:: https://github.com/Dario-Maglio/Curiosity_Driven_Learning/blob/8eb9ab0b99349f87462fc89c825702fcf46f3c4e/Progetto%20Ipazia.jpg
   :alt: Alternative text
   :align: center
-  :width: 800
+  :width: 1000
   :height: 400
   
 
