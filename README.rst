@@ -9,7 +9,7 @@ The **Curiosity Driven Learning** approach is based on the exploitation of natur
   :alt: Alternative text
   :align: center
   :width: 1000
-  :height: 400
+  :height: 600
   
 
 The name of the approach intentionally refers to the implementation of **Machine Learning** algorithms to build and modify this kind of environment. Initially, the user is demanded to select a topic which attracts his attention, such as a section on the "On this day" webpage. Then, the algorithm suggests some readings, as Wikipedia pages, and makes the user flow to some "mandatory concepts" in elementary, middle and high school, based on the user feedback.
