@@ -5,7 +5,7 @@ Curiosity Driven Learning
 The **Curiosity Driven Learning** approach is based on the exploitation of natural brain functionalities - as the ones responsible for pleasure and addiction - to make it easier for anyone to learn; i.e. to make anyone able to develop some basic skills in a curiosity-driven and continuously adapting environment.
 
 
-.. image:: https://github.com/Dario-Maglio/Curiosity_Driven_Learning/blob/8eb9ab0b99349f87462fc89c825702fcf46f3c4e/Progetto_Ipazia.jpg
+.. image:: https://github.com/Dario-Maglio/Curiosity_Driven_Learning/blob/9307b89a718a8ed1867f12c35f066303a5db6073/Progetto_Ipazia.jpg
   :alt: Alternative text
   :align: center
   :width: 1000
