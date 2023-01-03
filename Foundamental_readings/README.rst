@@ -8,6 +8,6 @@ Foundamental papers to get in touch with the evolution of scientific thought sup
   :alt: Alternative text
   :align: center
   :width: 1000
-  :height: 500
+  :height: 800
   
   
