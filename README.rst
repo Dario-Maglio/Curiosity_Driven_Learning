@@ -31,3 +31,9 @@ The basic ingredients of this approach are:
 
 
 With the last point, we underline that **AI cannot substitute the role of human relations**, but it is a powerful interactive tool to make them more productive. In a world where scientific and humanistic disseminators are the new influencers, less space for polarization and conflicts remains.
+
+
+Further applications:
+"""""""""""""""""""""
+
+Let's imagine to be in an old roman Basilica or the main square of a capital city. A curious mind always feel the needing of asking for information, curiosities and so on. Here is where the two AI based on ChatGPT comes in and help the users to learn like interactive audio guide. Their name are Gulliver and Ipazia and they're desigend to feed the user with new insights on what's going on around him. A nice idea would be to integrate them in some special glasses connected to the phone via an app? Let's see
